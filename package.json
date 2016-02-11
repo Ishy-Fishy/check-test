@@ -1,0 +1,22 @@
+{
+    "name": "todo-checklist",
+    "version": "0.0.5",
+    "description": "A simple checklist",
+    "main": "server.js",
+    "scripts":
+    {
+        "start": "node server.js"
+    },
+    "author": "Ishy-Fishy",
+    "licence": "GPL-3.0",
+    "dependencies": {
+        "body-parser": "*",
+        "express": "*",
+        "mongoose": "*",
+        "morgan": "*"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Ishy-Fishy/checklist-test"
+    }
+}

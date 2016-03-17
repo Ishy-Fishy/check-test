@@ -5,4 +5,4 @@ Author - Kostyantyn Semyanystyi (aka Ishy-Fishy)
 
 TODO: A working frontend. 
 
-Use ./mongo to start up the local mongodb
+Use ./mongod to start up the local mongodb
